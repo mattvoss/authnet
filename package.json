@@ -11,7 +11,8 @@
   ],
   "dependencies": {
     "superagent": "~0.12.4",
-    "xml2json": "~0.3.2"
+    "xml2json": "~0.3.2",
+    "jstoxml": "latest"
   },
   "devDependencies": {
     "mocha": "~1.8.1",
